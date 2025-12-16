@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Vincent (Vinny) Odhiambo  
 
-<!--
-**vincent0-ai/vincent0-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Technology Student | 🧠 Curious Builder | 🎹 Music + Code Enthusiast  
+💡 I build things to *understand*, not just to finish tutorials.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+- 🎓 Bachelor in Computer Technology  
+- 🐍 Python is my weapon of choice  
+- 🎵 Working on AI + Music projects (autonomous piano, pattern detection)  
+- 🔐 Interested in cybersecurity, systems, and real-world problem solving  
+- 🧪 Learning by **building**, breaking, and rebuilding  
+
+> “If it works but I don’t understand it, it doesn’t work.”
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+```text
+Python | JavaScript | Bash | SQL
