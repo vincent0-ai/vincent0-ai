@@ -43,7 +43,8 @@
 - 💬 **Discussio** → https://github.com/vincent0-ai/groupapp
 
 ## Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vincent0-ai&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent0-ai&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vincent0-ai&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent0-ai&theme=tokyonight" /> </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
