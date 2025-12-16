@@ -21,3 +21,11 @@
 **Languages**
 ```text
 Python | JavaScript | Bash | SQL
+**Framework and Tools**
+Flask | FastAPI | Socket.IO | Docker | Git | Linux
+**Database**
+MongoDB and redis
+**Others**
+WebRTC | LiveKit | REST APIs | OAuth | CapRover
+
+
