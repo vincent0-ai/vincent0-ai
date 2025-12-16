@@ -18,18 +18,34 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-```text
-Python | JavaScript | Bash | SQL
-**Framework and Tools**
-Flask | FastAPI | Socket.IO | Docker | Git | Linux
-**Database**
-MongoDB and redis
-**Others**
-WebRTC | LiveKit | REST APIs | OAuth | CapRover
+### Languages
+- Python
+- JavaScript
+- Bash
+- SQL
 
-## Current Projects
-[echowithin]https://github.com/vincent0-ai/echowithin
-[discussio]https://github.com/vincent0-ai/groupapp
+### Frameworks & Tools
+- Flask
+- FastAPI
+- Socket.IO
+- Docker
+- Git
+- Linux
+
+### Databases
+- MongoDB
+- Redis
+
+### Others
+- WebRTC
+- LiveKit
+- REST APIs
+- OAuth
+- CapRover
+
+## 🚧 Current Projects
+- 🔊 **EchoWithin** → https://github.com/vincent0-ai/echowithin  
+- 💬 **Discussio** → https://github.com/vincent0-ai/groupapp
+
 
 
