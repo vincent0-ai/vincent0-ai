@@ -18,7 +18,6 @@
 - JavaScript
 - Bash
 - SQL
-
 ### Frameworks & Tools
 - Flask
 - FastAPI
@@ -26,18 +25,15 @@
 - Docker
 - Git
 - Linux
-
 ### Databases
 - MongoDB
 - Redis
-
 ### Others
 - WebRTC
 - LiveKit
 - REST APIs
 - OAuth
 - CapRover
-
 ## 🚧 Current Projects
 - 🔊 **EchoWithin** → https://github.com/vincent0-ai/echowithin  
 - 💬 **Discussio** → https://github.com/vincent0-ai/groupapp
@@ -50,6 +46,10 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## 🤝 Let’s Connect
+💬 Open to collaboration on AI, music tech, or weird ideas
+🛠️ If it sounds impossible, I’m probably interested
+📫 Reach me via GitHub issues or discussions.
 
 
 
