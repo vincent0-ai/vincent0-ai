@@ -1,16 +1,13 @@
 # 👋 Hi, I'm Vincent (Vinny) Odhiambo  
 
 🚀 Computer Technology Student | 🧠 Curious Builder | 🎹 Music + Code Enthusiast  
-💡 I build things to *understand*, not just to finish tutorials.
 
 ## 🧩 About Me
-- 🎓 Bachelor in Computer Technology  
-- 🐍 Python is my weapon of choice  
-- 🎵 Working on AI + Music projects (autonomous piano, pattern detection)  
-- 🔐 Interested in cybersecurity, systems, and real-world problem solving  
-- 🧪 Learning by **building**, breaking, and rebuilding  
+- Bachelor in Computer Technology  
+-  Python is my weapon of choice  
+-  Working on AI + Music projects (autonomous piano, pattern detection)  
+-  Interested in cybersecurity, systems, and real-world problem solving  
 
-> “If it works but I don’t understand it, it doesn’t work.”
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -34,9 +31,9 @@
 - REST APIs
 - OAuth
 - CapRover
+- Dokploy
 ## 🚧 Current Projects
-- 🔊 **EchoWithin** → https://github.com/vincent0-ai/echowithin  
-- 💬 **Discussio** → https://github.com/vincent0-ai/groupapp
+-  **EchoWithin** → https://github.com/vincent0-ai/echowithin  
 
 ## Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vincent0-ai&show_icons=true&theme=tokyonight" /></p>
